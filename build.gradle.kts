@@ -15,5 +15,5 @@ dependencies {
 }
 
 application {
-    mainClass.set("com.astroloop.server.ApplicationKt")
+    mainClass.set("com.astroloop.server.MainKt")
 }
